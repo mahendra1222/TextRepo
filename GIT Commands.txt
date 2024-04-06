@@ -1,0 +1,38 @@
+GIT Commands
+
+1) git --version  : To know the version of the git installed  
+
+2) git congig --global user.name " username"
+		       user.email"user email@.com"
+
+3)git add file.txt : For adding single file with name 
+
+4) git add .   : "for adding  all files at a time"
+
+5) git add --all  , git add -A  : " Another way of adding all files at a time"
+
+6) git commit -m "MSG here!!" :  By adding clear messages to each commit, it is easy for 	yourself (and others) to see what has changed and 				
+
+7) git commit -a -m "Updated index.html with a new line" :"Used when sammll changes need to 	commit without staging or agging
+
+8)  git log  :To view the history of commits for a repository, you can use the log command
+
+9) git branch : "Creates new branch "
+	git checkout "branch name" : swittch to that branch
+	git checkout -b "branch name" : Creates and switch to that branch
+
+
+10) git merge branchName  : Switch to branch and use this coomand to merge the branch you 	want
+
+11) git remote add origin https://github.com/w3schools-test/hello-world.git
+
+12) git push --set-upstream origin master  : "Now we are going to push our master branch to 	the origin url, and set it as the default remote branch:
+
+13) path od master branch on GitHub or remote repo is "origin/master"
+	with git diff origin/master : "You can see diff between locan and remote repo master
+
+14) git pull origin : " to get the updated code from origin on remote repo to local"
+
+15) git push origin : "To push the local changes to the repo"
+
+16) 
