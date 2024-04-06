@@ -1,6 +1,7 @@
 GIT Commands
 
 1) git --version  : To know the version of the git installed  
+1) git --version  : To know the version of the git installed  
 
 2) git congig --global user.name " username"
 		       user.email"user email@.com"
